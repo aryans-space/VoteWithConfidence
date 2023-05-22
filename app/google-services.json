@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92763677263",
+    "project_id": "letsvoterwithconfidence",
+    "storage_bucket": "letsvoterwithconfidence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92763677263:android:fb06c2cd12e094931a403a",
+        "android_client_info": {
+          "package_name": "com.example.letsvoterwithconfidence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92763677263-p3q59cj2stfe16n84079i19oh532ql2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdE6OjL6CjnQkIG_-ZfI-Tfkvo9wpJJq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92763677263-p3q59cj2stfe16n84079i19oh532ql2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
